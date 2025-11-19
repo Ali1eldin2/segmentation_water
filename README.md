@@ -6,3 +6,12 @@ using multispectral and optical data. This solution is vital for monitoring wate
 resources, flood management, and environmental conservation, where precise
 segmentation of water bodies can significantly impact decision-making.
 
+    Preprocessing and Model Development:
+    
+        To achieve our objective, we will focus on the following key requirements:
+  
+
+   
+   
+
+   
