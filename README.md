@@ -25,6 +25,13 @@ segmentation of water bodies can significantly impact decision-making.
         multispectral and optical data. This will help in understanding the data
         characteristics and assessing the input quality for segmentation tasks.      
    
+3. Model Architecture and Training:
    
-
+         Model Selection: Use deep learning models suitable for segmentation tasks,
+         such as U-Net, which are known for their effectiveness in pixel-level
+         classification. The model will be trained to segment water bodies from the input
+         multispectral and optical data.
    
+         Evaluation: Evaluate the model's performance using metrics like IoU, precision,
+         recall, and F1-score specifically for the water class, to ensure the model's
+         segmentation accuracy meets the project’s objectives.
