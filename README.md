@@ -6,9 +6,18 @@ using multispectral and optical data. This solution is vital for monitoring wate
 resources, flood management, and environmental conservation, where precise
 segmentation of water bodies can significantly impact decision-making.
 
-    Preprocessing and Model Development:
+ Preprocessing and Model Development:
     
-        To achieve our objective, we will focus on the following key requirements:
+    To achieve our objective, we will focus on the following key requirements:
+
+1. Preprocessing:
+
+        Data Preparation: Prepare the multispectral and optical data by maintaining the
+        original shape and resolution of the images. This ensures that the spatial
+        integrity of the data is preserved for accurate segmentation.
+        Normalization: Apply normalization techniques to standardize the input data
+        across different sensors, which will help in improving model performance and
+        stability during training
   
 
    
