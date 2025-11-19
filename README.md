@@ -19,7 +19,11 @@ segmentation of water bodies can significantly impact decision-making.
         across different sensors, which will help in improving model performance and
         stability during training
   
+2. Visualization
 
+        Band Visualization: Show the images corresponding to each band in the
+        multispectral and optical data. This will help in understanding the data
+        characteristics and assessing the input quality for segmentation tasks.      
    
    
 
