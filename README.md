@@ -35,3 +35,7 @@ segmentation of water bodies can significantly impact decision-making.
          Evaluation: Evaluate the model's performance using metrics like IoU, precision,
          recall, and F1-score specifically for the water class, to ensure the model's
          segmentation accuracy meets the project’s objectives.
+
+   # Notes : Each Training/testing example has 12 channel/band and the label Y is binary mask and both have width/height=128
+
+
